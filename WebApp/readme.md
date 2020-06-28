@@ -1,2 +1,8 @@
 # Data Day Grind 2020
-- Analyzing and visualizing the World Happiness Index dataset.
+## How to run and view results
+1. Clone this repository
+2. CD into this repository
+3. Run `npm i` inside of your command line
+4. Run `npm start` inside of your command line
+5. Navigate to localhost:3000
+6. Enjoy :)
